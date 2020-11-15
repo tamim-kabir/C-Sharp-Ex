@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z34jj8i2jMkZchQbMfi79FqLT7HSRKEAbEVMRwlkACHj3sOlYJO3HNhsXxd6N4ZFjvnA9R8WL/9kq19q1drZug==",
+  "success": true,
+  "projectFilePath": "E:\\Programs\\c#\\UnderstendAndPackingDotNetTypes\\UnderstendAndPackingDotNetTypes\\UnderstendAndPackingDotNetTypes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdaha\\.nuget\\packages\\check.valid\\1.0.0.1\\check.valid.1.0.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

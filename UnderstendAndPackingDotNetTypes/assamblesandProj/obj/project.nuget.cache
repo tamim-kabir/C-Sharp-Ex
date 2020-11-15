@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "P+QFe60smQg4RbDaAotqcFeYhC8Q5mGkrA4tRsDcwwD3812B3zLz2DVMF8jHyfN8zNT/wh9icaW9CNJ/2cSErg==",
+  "success": true,
+  "projectFilePath": "E:\\Programs\\c#\\UnderstendAndPackingDotNetTypes\\assamblesandProj\\assamblesandProj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdaha\\.nuget\\packages\\check.valid\\1.0.0\\check.valid.1.0.0.nupkg.sha512",
+    "C:\\Users\\mdaha\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

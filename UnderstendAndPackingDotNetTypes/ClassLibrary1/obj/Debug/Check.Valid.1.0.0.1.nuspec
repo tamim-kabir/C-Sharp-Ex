@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Check.Valid</id>
+    <version>1.0.0.1</version>
+    <authors>Ahasanul Kabir-PrimeMax</authors>
+    <owners>Ahasanul Kabir-PrimeMax</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MS-PL</license>
+    <licenseUrl>https://licenses.nuget.org/MS-PL</licenseUrl>
+    <icon>Icon.png</icon>
+    <projectUrl>https://github.com/tamim-kabir/C-Sharp</projectUrl>
+    <description>Four Extension Methods to validate a string value.
+			Like E-mail, Password, Xmltag, Hex</description>
+    <copyright>Copyright @ 2020 PrimeMax</copyright>
+    <tags>String Extention Pack</tags>
+    <repository type="NuGet" url="https://github.com/tamim-kabir/Packing-Library-NuGet" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Programs\c#\UnderstendAndPackingDotNetTypes\ClassLibrary1\bin\Debug\netcoreapp2.0\StringExensionLibrary.runtimeconfig.json" target="lib\netcoreapp2.0\StringExensionLibrary.runtimeconfig.json" />
+    <file src="E:\Programs\c#\UnderstendAndPackingDotNetTypes\ClassLibrary1\bin\Debug\netcoreapp2.0\StringExensionLibrary.dll" target="lib\netcoreapp2.0\StringExensionLibrary.dll" />
+    <file src="C:\Users\mdaha\Downloads\Icon.png" target="Icon.png" />
+  </files>
+</package>

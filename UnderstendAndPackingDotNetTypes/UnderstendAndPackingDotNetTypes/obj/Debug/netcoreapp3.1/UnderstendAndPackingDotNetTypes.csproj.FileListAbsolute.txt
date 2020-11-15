@@ -1,0 +1,16 @@
+E:\Programs\c#\UnderstendAndPackingDotNetTypes\UnderstendAndPackingDotNetTypes\bin\Debug\netcoreapp3.1\UnderstendAndPackingDotNetTypes.exe
+E:\Programs\c#\UnderstendAndPackingDotNetTypes\UnderstendAndPackingDotNetTypes\bin\Debug\netcoreapp3.1\UnderstendAndPackingDotNetTypes.deps.json
+E:\Programs\c#\UnderstendAndPackingDotNetTypes\UnderstendAndPackingDotNetTypes\bin\Debug\netcoreapp3.1\UnderstendAndPackingDotNetTypes.runtimeconfig.json
+E:\Programs\c#\UnderstendAndPackingDotNetTypes\UnderstendAndPackingDotNetTypes\bin\Debug\netcoreapp3.1\UnderstendAndPackingDotNetTypes.runtimeconfig.dev.json
+E:\Programs\c#\UnderstendAndPackingDotNetTypes\UnderstendAndPackingDotNetTypes\bin\Debug\netcoreapp3.1\UnderstendAndPackingDotNetTypes.dll
+E:\Programs\c#\UnderstendAndPackingDotNetTypes\UnderstendAndPackingDotNetTypes\bin\Debug\netcoreapp3.1\UnderstendAndPackingDotNetTypes.pdb
+E:\Programs\c#\UnderstendAndPackingDotNetTypes\UnderstendAndPackingDotNetTypes\bin\Debug\netcoreapp3.1\StringExensionLibrary.dll
+E:\Programs\c#\UnderstendAndPackingDotNetTypes\UnderstendAndPackingDotNetTypes\bin\Debug\netcoreapp3.1\StringExensionLibrary.pdb
+E:\Programs\c#\UnderstendAndPackingDotNetTypes\UnderstendAndPackingDotNetTypes\obj\Debug\netcoreapp3.1\UnderstendAndPackingDotNetTypes.csprojAssemblyReference.cache
+E:\Programs\c#\UnderstendAndPackingDotNetTypes\UnderstendAndPackingDotNetTypes\obj\Debug\netcoreapp3.1\UnderstendAndPackingDotNetTypes.csproj.CoreCompileInputs.cache
+E:\Programs\c#\UnderstendAndPackingDotNetTypes\UnderstendAndPackingDotNetTypes\obj\Debug\netcoreapp3.1\UnderstendAndPackingDotNetTypes.AssemblyInfoInputs.cache
+E:\Programs\c#\UnderstendAndPackingDotNetTypes\UnderstendAndPackingDotNetTypes\obj\Debug\netcoreapp3.1\UnderstendAndPackingDotNetTypes.AssemblyInfo.cs
+E:\Programs\c#\UnderstendAndPackingDotNetTypes\UnderstendAndPackingDotNetTypes\obj\Debug\netcoreapp3.1\UnderstendAndPackingDotNetTypes.csproj.CopyComplete
+E:\Programs\c#\UnderstendAndPackingDotNetTypes\UnderstendAndPackingDotNetTypes\obj\Debug\netcoreapp3.1\UnderstendAndPackingDotNetTypes.dll
+E:\Programs\c#\UnderstendAndPackingDotNetTypes\UnderstendAndPackingDotNetTypes\obj\Debug\netcoreapp3.1\UnderstendAndPackingDotNetTypes.pdb
+E:\Programs\c#\UnderstendAndPackingDotNetTypes\UnderstendAndPackingDotNetTypes\obj\Debug\netcoreapp3.1\UnderstendAndPackingDotNetTypes.genruntimeconfig.cache
