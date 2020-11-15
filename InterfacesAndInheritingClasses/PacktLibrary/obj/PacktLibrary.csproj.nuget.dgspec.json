@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programs\\c#\\Chapter 6\\PacktLibrary\\PacktLibrary.csproj": {}
+    "E:\\Programs\\c#\\InterfacesAndInheritingClasses\\PacktLibrary\\PacktLibrary.csproj": {}
   },
   "projects": {
-    "E:\\Programs\\c#\\Chapter 6\\PacktLibrary\\PacktLibrary.csproj": {
+    "E:\\Programs\\c#\\InterfacesAndInheritingClasses\\PacktLibrary\\PacktLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programs\\c#\\Chapter 6\\PacktLibrary\\PacktLibrary.csproj",
+        "projectUniqueName": "E:\\Programs\\c#\\InterfacesAndInheritingClasses\\PacktLibrary\\PacktLibrary.csproj",
         "projectName": "PacktLibrary",
-        "projectPath": "E:\\Programs\\c#\\Chapter 6\\PacktLibrary\\PacktLibrary.csproj",
+        "projectPath": "E:\\Programs\\c#\\InterfacesAndInheritingClasses\\PacktLibrary\\PacktLibrary.csproj",
         "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-        "outputPath": "E:\\Programs\\c#\\Chapter 6\\PacktLibrary\\obj\\",
+        "outputPath": "E:\\Programs\\c#\\InterfacesAndInheritingClasses\\PacktLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",

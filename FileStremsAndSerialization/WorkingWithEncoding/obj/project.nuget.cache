@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ahPJSb8LTE8VKsFdkqfZCZZPO2SrR7r87PmZXDb/2fxWNbxFywlB3iL0dlnf70kadFbFyUeTHYTtUej4uq+4nA==",
+  "dgSpecHash": "4L+zHSiOB+iDB++T1Mecj1MC7TRF6RB6lul4J/ZOa4nDR9YLh2tu5zZT6gNEbFDaR56Ef6cQoNjSoYynS7Ybqg==",
   "success": true,
-  "projectFilePath": "E:\\Programs\\c#\\Chapter 9\\WorkingWithEncoding\\WorkingWithEncoding.csproj",
+  "projectFilePath": "E:\\Programs\\c#\\FileStremsAndSerialization\\WorkingWithEncoding\\WorkingWithEncoding.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

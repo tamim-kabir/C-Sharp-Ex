@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programs\\c#\\Chapter 9\\WorkingWithFileSystem\\WorkingWithFileSystem.csproj": {}
+    "E:\\Programs\\c#\\FileStremsAndSerialization\\WorkingWithFileSystem\\WorkingWithFileSystem.csproj": {}
   },
   "projects": {
-    "E:\\Programs\\c#\\Chapter 9\\WorkingWithFileSystem\\WorkingWithFileSystem.csproj": {
+    "E:\\Programs\\c#\\FileStremsAndSerialization\\WorkingWithFileSystem\\WorkingWithFileSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programs\\c#\\Chapter 9\\WorkingWithFileSystem\\WorkingWithFileSystem.csproj",
+        "projectUniqueName": "E:\\Programs\\c#\\FileStremsAndSerialization\\WorkingWithFileSystem\\WorkingWithFileSystem.csproj",
         "projectName": "WorkingWithFileSystem",
-        "projectPath": "E:\\Programs\\c#\\Chapter 9\\WorkingWithFileSystem\\WorkingWithFileSystem.csproj",
+        "projectPath": "E:\\Programs\\c#\\FileStremsAndSerialization\\WorkingWithFileSystem\\WorkingWithFileSystem.csproj",
         "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-        "outputPath": "E:\\Programs\\c#\\Chapter 9\\WorkingWithFileSystem\\obj\\",
+        "outputPath": "E:\\Programs\\c#\\FileStremsAndSerialization\\WorkingWithFileSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",

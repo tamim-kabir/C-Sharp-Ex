@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TiJo8SfWdrkJ88MdiWJ4KeXdrZJJJKrsGz3ARjJ3oBBfwF6l4Hk88phDBEq3uOfNtsUtzdougzcXQXMQ2Rf4Xg==",
+  "dgSpecHash": "UtEMjvgXQpg0RbK7Rh9ZqPTngCZI5+aD9mNdsu+/dmbdweNnWWs2e5EqkacAdXpCSShsiaWmByq8VqOAUi9Q7Q==",
   "success": true,
-  "projectFilePath": "E:\\Programs\\c#\\Chapter 8\\Chapter 8\\CommonDotNetTypes.csproj",
+  "projectFilePath": "E:\\Programs\\c#\\CommonDotNetTypes\\CommonDotNetTypes\\CommonDotNetTypes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

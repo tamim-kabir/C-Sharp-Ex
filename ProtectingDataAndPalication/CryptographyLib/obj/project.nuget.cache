@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NPWzcZ4RworhE4qsfT2kF4Pb5nhWTwuExF9IfjUYfzKB5GwGFH0caTie69YbLU00ZlrPXQMWLQCfGEGXvGYF1A==",
+  "dgSpecHash": "HNS0ZMvgRyhmD4UAqDtoz3KUn9bXn6J794++Xm3HyIkJYIM2Q32zhNiWg8kYuUpKJg/qgki2HWyk/LbU7ayR7A==",
   "success": true,
-  "projectFilePath": "E:\\Programs\\c#\\Chapter 10\\CryptographyLib\\CryptographyLib.csproj",
+  "projectFilePath": "E:\\Programs\\c#\\ProtectingDataAndPalication\\CryptographyLib\\CryptographyLib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

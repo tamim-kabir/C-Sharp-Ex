@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programs\\c#\\Chapter 3\\Switch-statement\\Switch-statement.csproj": {}
+    "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\Switch-statement\\Switch-statement.csproj": {}
   },
   "projects": {
-    "E:\\Programs\\c#\\Chapter 3\\Switch-statement\\Switch-statement.csproj": {
+    "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\Switch-statement\\Switch-statement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programs\\c#\\Chapter 3\\Switch-statement\\Switch-statement.csproj",
+        "projectUniqueName": "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\Switch-statement\\Switch-statement.csproj",
         "projectName": "Switch-statement",
-        "projectPath": "E:\\Programs\\c#\\Chapter 3\\Switch-statement\\Switch-statement.csproj",
+        "projectPath": "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\Switch-statement\\Switch-statement.csproj",
         "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-        "outputPath": "E:\\Programs\\c#\\Chapter 3\\Switch-statement\\obj\\",
+        "outputPath": "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\Switch-statement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",

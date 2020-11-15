@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programs\\c#\\Chapter 10\\EncryptionApp\\EncryptionApp.csproj": {}
+    "E:\\Programs\\c#\\ProtectingDataAndPalication\\EncryptionApp\\EncryptionApp.csproj": {}
   },
   "projects": {
-    "E:\\Programs\\c#\\Chapter 10\\CryptographyLib\\CryptographyLib.csproj": {
+    "E:\\Programs\\c#\\ProtectingDataAndPalication\\CryptographyLib\\CryptographyLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programs\\c#\\Chapter 10\\CryptographyLib\\CryptographyLib.csproj",
+        "projectUniqueName": "E:\\Programs\\c#\\ProtectingDataAndPalication\\CryptographyLib\\CryptographyLib.csproj",
         "projectName": "CryptographyLib",
-        "projectPath": "E:\\Programs\\c#\\Chapter 10\\CryptographyLib\\CryptographyLib.csproj",
+        "projectPath": "E:\\Programs\\c#\\ProtectingDataAndPalication\\CryptographyLib\\CryptographyLib.csproj",
         "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-        "outputPath": "E:\\Programs\\c#\\Chapter 10\\CryptographyLib\\obj\\",
+        "outputPath": "E:\\Programs\\c#\\ProtectingDataAndPalication\\CryptographyLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "E:\\Programs\\c#\\Chapter 10\\EncryptionApp\\EncryptionApp.csproj": {
+    "E:\\Programs\\c#\\ProtectingDataAndPalication\\EncryptionApp\\EncryptionApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programs\\c#\\Chapter 10\\EncryptionApp\\EncryptionApp.csproj",
+        "projectUniqueName": "E:\\Programs\\c#\\ProtectingDataAndPalication\\EncryptionApp\\EncryptionApp.csproj",
         "projectName": "EncryptionApp",
-        "projectPath": "E:\\Programs\\c#\\Chapter 10\\EncryptionApp\\EncryptionApp.csproj",
+        "projectPath": "E:\\Programs\\c#\\ProtectingDataAndPalication\\EncryptionApp\\EncryptionApp.csproj",
         "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-        "outputPath": "E:\\Programs\\c#\\Chapter 10\\EncryptionApp\\obj\\",
+        "outputPath": "E:\\Programs\\c#\\ProtectingDataAndPalication\\EncryptionApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Programs\\c#\\Chapter 10\\CryptographyLib\\CryptographyLib.csproj": {
-                "projectPath": "E:\\Programs\\c#\\Chapter 10\\CryptographyLib\\CryptographyLib.csproj"
+              "E:\\Programs\\c#\\ProtectingDataAndPalication\\CryptographyLib\\CryptographyLib.csproj": {
+                "projectPath": "E:\\Programs\\c#\\ProtectingDataAndPalication\\CryptographyLib\\CryptographyLib.csproj"
               }
             }
           }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programs\\c#\\Chapter 8\\WorkingWithNetwork\\WorkingWithNetwork.csproj",
+      "projectUniqueName": "E:\\Programs\\c#\\CommonDotNetTypes\\WorkingWithNetwork\\WorkingWithNetwork.csproj",
       "projectName": "WorkingWithNetwork",
-      "projectPath": "E:\\Programs\\c#\\Chapter 8\\WorkingWithNetwork\\WorkingWithNetwork.csproj",
+      "projectPath": "E:\\Programs\\c#\\CommonDotNetTypes\\WorkingWithNetwork\\WorkingWithNetwork.csproj",
       "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-      "outputPath": "E:\\Programs\\c#\\Chapter 8\\WorkingWithNetwork\\obj\\",
+      "outputPath": "E:\\Programs\\c#\\CommonDotNetTypes\\WorkingWithNetwork\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",

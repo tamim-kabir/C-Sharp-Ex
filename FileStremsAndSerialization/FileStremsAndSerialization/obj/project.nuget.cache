@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JgkvBKijfyK3bqiqNqPCQPfUfrQfy/6RFpCCWU4jNCCoKd7cMi5YxG0sjW+djCNfb0XDHLUvu2xTepfWk4xoqw==",
+  "dgSpecHash": "ZIUKN8e7BUHjv2GUjakMjBqS2c0WpSPu/gw34lVKs2N58axXpX7LlHKcjvu8nx6i/KEgcfujFnT92nPRU7e3/w==",
   "success": true,
-  "projectFilePath": "E:\\Programs\\c#\\Chapter 9\\Chapter 9\\FileStremsAndSerialization.csproj",
+  "projectFilePath": "E:\\Programs\\c#\\FileStremsAndSerialization\\FileStremsAndSerialization\\FileStremsAndSerialization.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programs\\c#\\Chapter 2 MCPD\\Chapter 3 MCPD\\Starting With CSharp-2.csproj": {}
+    "E:\\Programs\\c#\\Starting With CSharp\\Starting With CSharp-2\\Starting With CSharp-2.csproj": {}
   },
   "projects": {
-    "E:\\Programs\\c#\\Chapter 2 MCPD\\Chapter 3 MCPD\\Starting With CSharp-2.csproj": {
+    "E:\\Programs\\c#\\Starting With CSharp\\Starting With CSharp-2\\Starting With CSharp-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programs\\c#\\Chapter 2 MCPD\\Chapter 3 MCPD\\Starting With CSharp-2.csproj",
+        "projectUniqueName": "E:\\Programs\\c#\\Starting With CSharp\\Starting With CSharp-2\\Starting With CSharp-2.csproj",
         "projectName": "Starting With CSharp-2",
-        "projectPath": "E:\\Programs\\c#\\Chapter 2 MCPD\\Chapter 3 MCPD\\Starting With CSharp-2.csproj",
+        "projectPath": "E:\\Programs\\c#\\Starting With CSharp\\Starting With CSharp-2\\Starting With CSharp-2.csproj",
         "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-        "outputPath": "E:\\Programs\\c#\\Chapter 2 MCPD\\Chapter 3 MCPD\\obj\\",
+        "outputPath": "E:\\Programs\\c#\\Starting With CSharp\\Starting With CSharp-2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",

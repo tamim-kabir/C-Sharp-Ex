@@ -1,5 +1,5 @@
-﻿using System;
-using Check.Valid;
+﻿using Check.Valid;
+using System;
 
 namespace Check.Vali
 {

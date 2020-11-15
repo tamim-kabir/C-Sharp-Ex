@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programs\\c#\\Chapter 9\\WorkingWithDrives\\WorkingWithDrives.csproj",
+      "projectUniqueName": "E:\\Programs\\c#\\FileStremsAndSerialization\\WorkingWithDrives\\WorkingWithDrives.csproj",
       "projectName": "WorkingWithDrives",
-      "projectPath": "E:\\Programs\\c#\\Chapter 9\\WorkingWithDrives\\WorkingWithDrives.csproj",
+      "projectPath": "E:\\Programs\\c#\\FileStremsAndSerialization\\WorkingWithDrives\\WorkingWithDrives.csproj",
       "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-      "outputPath": "E:\\Programs\\c#\\Chapter 9\\WorkingWithDrives\\obj\\",
+      "outputPath": "E:\\Programs\\c#\\FileStremsAndSerialization\\WorkingWithDrives\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",

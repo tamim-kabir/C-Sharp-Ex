@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programs\\c#\\Chapter 10\\CryptographyLib\\CryptographyLib.csproj",
+      "projectUniqueName": "E:\\Programs\\c#\\ProtectingDataAndPalication\\CryptographyLib\\CryptographyLib.csproj",
       "projectName": "CryptographyLib",
-      "projectPath": "E:\\Programs\\c#\\Chapter 10\\CryptographyLib\\CryptographyLib.csproj",
+      "projectPath": "E:\\Programs\\c#\\ProtectingDataAndPalication\\CryptographyLib\\CryptographyLib.csproj",
       "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-      "outputPath": "E:\\Programs\\c#\\Chapter 10\\CryptographyLib\\obj\\",
+      "outputPath": "E:\\Programs\\c#\\ProtectingDataAndPalication\\CryptographyLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",

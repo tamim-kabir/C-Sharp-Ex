@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OsKdfp7iL8Tb3HzdEUagfKrpwFjek2EWxalzxuC0aOcbu4sQHGQVJ8wqts1xXfbc3COam+XxawHMcMJdAm1+6A==",
+  "dgSpecHash": "i6JiliY70Tak9zXnvZGsHlgCnX+BPEjhcImshGbw2kHhq8HYugzQCaF2U+9EboKhNOcqPzS2MADJ4Yp2aoRSDw==",
   "success": true,
-  "projectFilePath": "E:\\Programs\\c#\\Chapter 8\\Internationalization\\Internationalization.csproj",
+  "projectFilePath": "E:\\Programs\\c#\\CommonDotNetTypes\\Internationalization\\Internationalization.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

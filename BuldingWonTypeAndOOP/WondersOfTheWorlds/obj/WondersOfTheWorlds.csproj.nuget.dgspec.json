@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programs\\c#\\Chapter 5\\WondersOfTheWorlds\\WondersOfTheWorlds.csproj": {}
+    "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\WondersOfTheWorlds\\WondersOfTheWorlds.csproj": {}
   },
   "projects": {
-    "E:\\Programs\\c#\\Chapter 5\\PacktLibrary\\PacktLibrary.csproj": {
+    "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\PacktLibrary\\PacktLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programs\\c#\\Chapter 5\\PacktLibrary\\PacktLibrary.csproj",
+        "projectUniqueName": "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\PacktLibrary\\PacktLibrary.csproj",
         "projectName": "PacktLibrary",
-        "projectPath": "E:\\Programs\\c#\\Chapter 5\\PacktLibrary\\PacktLibrary.csproj",
+        "projectPath": "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\PacktLibrary\\PacktLibrary.csproj",
         "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-        "outputPath": "E:\\Programs\\c#\\Chapter 5\\PacktLibrary\\obj\\",
+        "outputPath": "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\PacktLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "E:\\Programs\\c#\\Chapter 5\\WondersOfTheWorlds\\WondersOfTheWorlds.csproj": {
+    "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\WondersOfTheWorlds\\WondersOfTheWorlds.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programs\\c#\\Chapter 5\\WondersOfTheWorlds\\WondersOfTheWorlds.csproj",
+        "projectUniqueName": "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\WondersOfTheWorlds\\WondersOfTheWorlds.csproj",
         "projectName": "WondersOfTheWorlds",
-        "projectPath": "E:\\Programs\\c#\\Chapter 5\\WondersOfTheWorlds\\WondersOfTheWorlds.csproj",
+        "projectPath": "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\WondersOfTheWorlds\\WondersOfTheWorlds.csproj",
         "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-        "outputPath": "E:\\Programs\\c#\\Chapter 5\\WondersOfTheWorlds\\obj\\",
+        "outputPath": "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\WondersOfTheWorlds\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Programs\\c#\\Chapter 5\\PacktLibrary\\PacktLibrary.csproj": {
-                "projectPath": "E:\\Programs\\c#\\Chapter 5\\PacktLibrary\\PacktLibrary.csproj"
+              "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\PacktLibrary\\PacktLibrary.csproj": {
+                "projectPath": "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\PacktLibrary\\PacktLibrary.csproj"
               }
             }
           }

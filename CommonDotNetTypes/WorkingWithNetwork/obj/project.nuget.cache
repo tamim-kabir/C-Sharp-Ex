@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pp6UXznKsmuh/wiPqvZXG7YjKR1928K95puZ0Sp0wp3Wi5N/uKIupTcPNct6MYUzsu7VKIQByX4H5vSFBngwmA==",
+  "dgSpecHash": "cHGJ6rMXVkTd6iqDjFGwMbnItrd0Yx015qcbSdfZ5InuOR+9A0iYS6kHoPR/FfVAn+oKv4NFoyHJmpHZIPRUaw==",
   "success": true,
-  "projectFilePath": "E:\\Programs\\c#\\Chapter 8\\WorkingWithNetwork\\WorkingWithNetwork.csproj",
+  "projectFilePath": "E:\\Programs\\c#\\CommonDotNetTypes\\WorkingWithNetwork\\WorkingWithNetwork.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

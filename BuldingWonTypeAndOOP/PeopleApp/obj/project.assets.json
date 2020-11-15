@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programs\\c#\\Chapter 5\\PeopleApp\\PeopleApp.csproj",
+      "projectUniqueName": "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\PeopleApp\\PeopleApp.csproj",
       "projectName": "PeopleApp",
-      "projectPath": "E:\\Programs\\c#\\Chapter 5\\PeopleApp\\PeopleApp.csproj",
+      "projectPath": "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\PeopleApp\\PeopleApp.csproj",
       "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-      "outputPath": "E:\\Programs\\c#\\Chapter 5\\PeopleApp\\obj\\",
+      "outputPath": "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\PeopleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\Programs\\c#\\Chapter 5\\PacktLibrary\\PacktLibrary.csproj": {
-              "projectPath": "E:\\Programs\\c#\\Chapter 5\\PacktLibrary\\PacktLibrary.csproj"
+            "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\PacktLibrary\\PacktLibrary.csproj": {
+              "projectPath": "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\PacktLibrary\\PacktLibrary.csproj"
             }
           }
         }

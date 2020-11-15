@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programs\\c#\\Chapter 9\\WorkingWithEncoding\\WorkingWithEncoding.csproj",
+      "projectUniqueName": "E:\\Programs\\c#\\FileStremsAndSerialization\\WorkingWithEncoding\\WorkingWithEncoding.csproj",
       "projectName": "WorkingWithEncoding",
-      "projectPath": "E:\\Programs\\c#\\Chapter 9\\WorkingWithEncoding\\WorkingWithEncoding.csproj",
+      "projectPath": "E:\\Programs\\c#\\FileStremsAndSerialization\\WorkingWithEncoding\\WorkingWithEncoding.csproj",
       "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-      "outputPath": "E:\\Programs\\c#\\Chapter 9\\WorkingWithEncoding\\obj\\",
+      "outputPath": "E:\\Programs\\c#\\FileStremsAndSerialization\\WorkingWithEncoding\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",

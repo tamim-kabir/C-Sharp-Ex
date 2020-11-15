@@ -40,11 +40,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programs\\c#\\Chapter 7\\AssambileAndmanage\\AssambileAndmanage.csproj",
+      "projectUniqueName": "E:\\Programs\\c#\\UnderstendAndPackingDotNetTypes\\AssambileAndmanage\\AssambileAndmanage.csproj",
       "projectName": "AssambileAndmanage",
-      "projectPath": "E:\\Programs\\c#\\Chapter 7\\AssambileAndmanage\\AssambileAndmanage.csproj",
+      "projectPath": "E:\\Programs\\c#\\UnderstendAndPackingDotNetTypes\\AssambileAndmanage\\AssambileAndmanage.csproj",
       "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-      "outputPath": "E:\\Programs\\c#\\Chapter 7\\AssambileAndmanage\\obj\\",
+      "outputPath": "E:\\Programs\\c#\\UnderstendAndPackingDotNetTypes\\AssambileAndmanage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",

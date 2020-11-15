@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WoRRuiAQR6YYWBi7swy4BVqMwDrvIdYwie/lVqZexT2MjDvCYVzOVsUEsvdHI+DrRVdAvXoBS+XYmZ+U6Gv/7w==",
+  "dgSpecHash": "dOvSSQ+9qzCjjWvXi5nMSYSPAidN+y7fxIBLCJY9UPKbxLEHZYUP8PHsVtgAkgSFlc4i9xs57mtD25hXp4btHw==",
   "success": true,
-  "projectFilePath": "E:\\Programs\\c#\\Chapter 6\\PeopleApp\\PeopleApp.csproj",
+  "projectFilePath": "E:\\Programs\\c#\\InterfacesAndInheritingClasses\\PeopleApp\\PeopleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

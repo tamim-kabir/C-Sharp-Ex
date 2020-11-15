@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7AC9Jbv1P7+yK05lh/lys4TRpi/y32DbQ6hk4tGvbDRXqYv3qzongX8svmTNoPXn8IiJmJYgb7rWT3d2Pf+fIQ==",
+  "dgSpecHash": "/D8DorU2AGReKT+BzDLbVtGZtITPwo0eAdOwuFC39i9+bBZR2ToPRWRLPzIKWq3cK4zlZhOc7F7PyvEW82WUsg==",
   "success": true,
-  "projectFilePath": "E:\\Programs\\c#\\Chapter 3\\Switch-statement\\Switch-statement.csproj",
+  "projectFilePath": "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\Switch-statement\\Switch-statement.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

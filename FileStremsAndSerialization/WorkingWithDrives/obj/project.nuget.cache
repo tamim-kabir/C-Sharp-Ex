@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qv94/ulNozUXN3D7y1jQNB8+cmUR+XUFaFOlpGXAC8cFkUcGTeyNEWhekearAH8uPghJr6cJFPuLqcIdBmjoTQ==",
+  "dgSpecHash": "ws57qyWpz1WNlKFMBPxggyGufHYfpZTLeDETM7m5ygoh39Kg6X6bBSWGEcHgKXw4LitsVAJ8LGoiK3El6uXSpg==",
   "success": true,
-  "projectFilePath": "E:\\Programs\\c#\\Chapter 9\\WorkingWithDrives\\WorkingWithDrives.csproj",
+  "projectFilePath": "E:\\Programs\\c#\\FileStremsAndSerialization\\WorkingWithDrives\\WorkingWithDrives.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programs\\c#\\Chapter 9\\Chapter 9\\FileStremsAndSerialization.csproj": {}
+    "E:\\Programs\\c#\\FileStremsAndSerialization\\FileStremsAndSerialization\\FileStremsAndSerialization.csproj": {}
   },
   "projects": {
-    "E:\\Programs\\c#\\Chapter 9\\Chapter 9\\FileStremsAndSerialization.csproj": {
+    "E:\\Programs\\c#\\FileStremsAndSerialization\\FileStremsAndSerialization\\FileStremsAndSerialization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programs\\c#\\Chapter 9\\Chapter 9\\FileStremsAndSerialization.csproj",
+        "projectUniqueName": "E:\\Programs\\c#\\FileStremsAndSerialization\\FileStremsAndSerialization\\FileStremsAndSerialization.csproj",
         "projectName": "FileStremsAndSerialization",
-        "projectPath": "E:\\Programs\\c#\\Chapter 9\\Chapter 9\\FileStremsAndSerialization.csproj",
+        "projectPath": "E:\\Programs\\c#\\FileStremsAndSerialization\\FileStremsAndSerialization\\FileStremsAndSerialization.csproj",
         "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-        "outputPath": "E:\\Programs\\c#\\Chapter 9\\Chapter 9\\obj\\",
+        "outputPath": "E:\\Programs\\c#\\FileStremsAndSerialization\\FileStremsAndSerialization\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "swUIcga8GjR2yGlAobT7N6Hza5bPMrrCYbcQqNMLDqmHEuQykzU6fCXBtNGKc6OXgIkGvHnzbUdvC1NUCnR/cQ==",
+  "dgSpecHash": "iTU+cDVP0QZtH6+S8rHKHo1wp6ZkadefJo3IafB1hkcJilVBFi+Cn5JfXIBmOu0Orm9h/oQSathAw6hOvSEczg==",
   "success": true,
-  "projectFilePath": "E:\\Programs\\c#\\Chapter 10\\EncryptionApp\\EncryptionApp.csproj",
+  "projectFilePath": "E:\\Programs\\c#\\ProtectingDataAndPalication\\EncryptionApp\\EncryptionApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

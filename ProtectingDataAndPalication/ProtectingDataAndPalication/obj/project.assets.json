@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programs\\c#\\Chapter 10\\Chapter 10\\ProtectingDataAndPalication.csproj",
+      "projectUniqueName": "E:\\Programs\\c#\\ProtectingDataAndPalication\\ProtectingDataAndPalication\\ProtectingDataAndPalication.csproj",
       "projectName": "ProtectingDataAndPalication",
-      "projectPath": "E:\\Programs\\c#\\Chapter 10\\Chapter 10\\ProtectingDataAndPalication.csproj",
+      "projectPath": "E:\\Programs\\c#\\ProtectingDataAndPalication\\ProtectingDataAndPalication\\ProtectingDataAndPalication.csproj",
       "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-      "outputPath": "E:\\Programs\\c#\\Chapter 10\\Chapter 10\\obj\\",
+      "outputPath": "E:\\Programs\\c#\\ProtectingDataAndPalication\\ProtectingDataAndPalication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",

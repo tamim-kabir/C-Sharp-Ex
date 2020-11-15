@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programs\\c#\\Chapter 4\\function 2 ordinal to cardinal\\function 2 ordinal to cardinal.csproj",
+      "projectUniqueName": "E:\\Programs\\c#\\WritingDebuggingAndTestingFunction\\function 2 ordinal to cardinal\\function 2 ordinal to cardinal.csproj",
       "projectName": "function 2 ordinal to cardinal",
-      "projectPath": "E:\\Programs\\c#\\Chapter 4\\function 2 ordinal to cardinal\\function 2 ordinal to cardinal.csproj",
+      "projectPath": "E:\\Programs\\c#\\WritingDebuggingAndTestingFunction\\function 2 ordinal to cardinal\\function 2 ordinal to cardinal.csproj",
       "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-      "outputPath": "E:\\Programs\\c#\\Chapter 4\\function 2 ordinal to cardinal\\obj\\",
+      "outputPath": "E:\\Programs\\c#\\WritingDebuggingAndTestingFunction\\function 2 ordinal to cardinal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",

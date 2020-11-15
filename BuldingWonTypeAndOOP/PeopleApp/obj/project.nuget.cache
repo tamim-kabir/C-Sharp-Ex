@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PSAxUvdaQgEtO1FFIcQWgspV8ZKDaVSAfr5Hzd033ChBkfttHFhqdtTdrZtSTyeyYsaE6PFmkpnOp7TXy7Kicg==",
+  "dgSpecHash": "qqjxg1q9QWIVEyWrCeLuJB00QeKA1lghODvxBDYSuipO3Kr57AHWmUYU1HO7h67hR6qzDJltKCFHB8BWiExAIA==",
   "success": true,
-  "projectFilePath": "E:\\Programs\\c#\\Chapter 5\\PeopleApp\\PeopleApp.csproj",
+  "projectFilePath": "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\PeopleApp\\PeopleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

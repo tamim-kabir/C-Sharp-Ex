@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programs\\c#\\Chapter 3\\Ex\\Ex.csproj",
+      "projectUniqueName": "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\Ex\\Ex.csproj",
       "projectName": "Ex",
-      "projectPath": "E:\\Programs\\c#\\Chapter 3\\Ex\\Ex.csproj",
+      "projectPath": "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\Ex\\Ex.csproj",
       "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-      "outputPath": "E:\\Programs\\c#\\Chapter 3\\Ex\\obj\\",
+      "outputPath": "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\Ex\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",

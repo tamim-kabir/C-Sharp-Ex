@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "onqC+kd4YJZ+gUafSnGfEzG8ENrC+axqNzTQpxe2lPaxJHBs5xNDKPgk26vkfM28U+q5chGvatx3bf9cX9mwNA==",
+  "dgSpecHash": "xUCpVyWZMV6DqMGS86NjowIF2+tI5TkLDoFCUUz7ISfoUNvlJFb6BlepVe8PeaDPKoUpMYZZ6/yZWdhA8pFyHQ==",
   "success": true,
-  "projectFilePath": "E:\\Programs\\c#\\Chapter 6\\Chapter 6\\InterfacesAndInheritingClasses.csproj",
+  "projectFilePath": "E:\\Programs\\c#\\InterfacesAndInheritingClasses\\InterfacesAndInheritingClasses\\InterfacesAndInheritingClasses.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

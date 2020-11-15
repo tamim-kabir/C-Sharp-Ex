@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programs\\c#\\Chapter 4\\Chapter 4\\WritingDebuggingAndTestingFunction.csproj": {}
+    "E:\\Programs\\c#\\WritingDebuggingAndTestingFunction\\WritingDebuggingAndTestingFunction\\WritingDebuggingAndTestingFunction.csproj": {}
   },
   "projects": {
-    "E:\\Programs\\c#\\Chapter 4\\Chapter 4\\WritingDebuggingAndTestingFunction.csproj": {
+    "E:\\Programs\\c#\\WritingDebuggingAndTestingFunction\\WritingDebuggingAndTestingFunction\\WritingDebuggingAndTestingFunction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programs\\c#\\Chapter 4\\Chapter 4\\WritingDebuggingAndTestingFunction.csproj",
+        "projectUniqueName": "E:\\Programs\\c#\\WritingDebuggingAndTestingFunction\\WritingDebuggingAndTestingFunction\\WritingDebuggingAndTestingFunction.csproj",
         "projectName": "WritingDebuggingAndTestingFunction",
-        "projectPath": "E:\\Programs\\c#\\Chapter 4\\Chapter 4\\WritingDebuggingAndTestingFunction.csproj",
+        "projectPath": "E:\\Programs\\c#\\WritingDebuggingAndTestingFunction\\WritingDebuggingAndTestingFunction\\WritingDebuggingAndTestingFunction.csproj",
         "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-        "outputPath": "E:\\Programs\\c#\\Chapter 4\\Chapter 4\\obj\\",
+        "outputPath": "E:\\Programs\\c#\\WritingDebuggingAndTestingFunction\\WritingDebuggingAndTestingFunction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",

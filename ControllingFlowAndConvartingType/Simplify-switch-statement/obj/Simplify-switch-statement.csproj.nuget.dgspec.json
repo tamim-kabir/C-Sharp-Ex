@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programs\\c#\\Chapter 3\\Simplify-switch-statement\\Simplify-switch-statement.csproj": {}
+    "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\Simplify-switch-statement\\Simplify-switch-statement.csproj": {}
   },
   "projects": {
-    "E:\\Programs\\c#\\Chapter 3\\Simplify-switch-statement\\Simplify-switch-statement.csproj": {
+    "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\Simplify-switch-statement\\Simplify-switch-statement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programs\\c#\\Chapter 3\\Simplify-switch-statement\\Simplify-switch-statement.csproj",
+        "projectUniqueName": "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\Simplify-switch-statement\\Simplify-switch-statement.csproj",
         "projectName": "Simplify-switch-statement",
-        "projectPath": "E:\\Programs\\c#\\Chapter 3\\Simplify-switch-statement\\Simplify-switch-statement.csproj",
+        "projectPath": "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\Simplify-switch-statement\\Simplify-switch-statement.csproj",
         "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-        "outputPath": "E:\\Programs\\c#\\Chapter 3\\Simplify-switch-statement\\obj\\",
+        "outputPath": "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\Simplify-switch-statement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",

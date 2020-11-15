@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dO0tpwb+ZN4EUTlqtEXcsZQSW2wTZFawy2p4uLQtAY75rJsFGyHiLw7j/N1p4/4HfdSTJiQJvkAAT1XYuUr7AA==",
+  "dgSpecHash": "skeW1GuDg/leOgN5zkGUlGgdcqhCRzPq+YHZc9o0J1pkfykns6SrhViYiTeNvIB9jN7jEn9ytqhu9Pt8BYQ3cQ==",
   "success": true,
-  "projectFilePath": "E:\\Programs\\c#\\Chapter 5\\PacktLibrary\\PacktLibrary.csproj",
+  "projectFilePath": "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\PacktLibrary\\PacktLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

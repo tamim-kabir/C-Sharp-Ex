@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programs\\c#\\Chapter 5\\WondersOfTheAncientWorld\\WondersOfTheAncientWorld.csproj",
+      "projectUniqueName": "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\WondersOfTheAncientWorld\\WondersOfTheAncientWorld.csproj",
       "projectName": "WondersOfTheAncientWorld",
-      "projectPath": "E:\\Programs\\c#\\Chapter 5\\WondersOfTheAncientWorld\\WondersOfTheAncientWorld.csproj",
+      "projectPath": "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\WondersOfTheAncientWorld\\WondersOfTheAncientWorld.csproj",
       "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-      "outputPath": "E:\\Programs\\c#\\Chapter 5\\WondersOfTheAncientWorld\\obj\\",
+      "outputPath": "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\WondersOfTheAncientWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",

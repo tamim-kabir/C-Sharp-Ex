@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4R/Jfk11vJIAXM3we+eeln+18ykqeSjCSdo7TVV1YDWOaUtPMX5rm+FyLj0pkbvM1QCj+LWmz9kygL/Kpm4dKw==",
+  "dgSpecHash": "2yOJrnVt/AJ6S4oe4CYiLGCK/eTKaMVpDQA75ds0yRFl38dZwXupmKk3j+t3nw3Oe491wRBFXZmMl+7YnuPbMg==",
   "success": true,
-  "projectFilePath": "E:\\Programs\\c#\\Chapter 9\\WorkingWithFileSystem\\WorkingWithFileSystem.csproj",
+  "projectFilePath": "E:\\Programs\\c#\\FileStremsAndSerialization\\WorkingWithFileSystem\\WorkingWithFileSystem.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

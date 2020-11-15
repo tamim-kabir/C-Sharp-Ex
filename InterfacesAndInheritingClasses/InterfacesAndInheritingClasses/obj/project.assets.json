@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programs\\c#\\Chapter 6\\Chapter 6\\InterfacesAndInheritingClasses.csproj",
+      "projectUniqueName": "E:\\Programs\\c#\\InterfacesAndInheritingClasses\\InterfacesAndInheritingClasses\\InterfacesAndInheritingClasses.csproj",
       "projectName": "InterfacesAndInheritingClasses",
-      "projectPath": "E:\\Programs\\c#\\Chapter 6\\Chapter 6\\InterfacesAndInheritingClasses.csproj",
+      "projectPath": "E:\\Programs\\c#\\InterfacesAndInheritingClasses\\InterfacesAndInheritingClasses\\InterfacesAndInheritingClasses.csproj",
       "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-      "outputPath": "E:\\Programs\\c#\\Chapter 6\\Chapter 6\\obj\\",
+      "outputPath": "E:\\Programs\\c#\\InterfacesAndInheritingClasses\\InterfacesAndInheritingClasses\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",

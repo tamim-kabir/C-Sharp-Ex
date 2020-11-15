@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programs\\c#\\Chapter 3\\Exeption hendelining\\Exeption hendelining.csproj",
+      "projectUniqueName": "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\Exeption hendelining\\Exeption hendelining.csproj",
       "projectName": "Exeption hendelining",
-      "projectPath": "E:\\Programs\\c#\\Chapter 3\\Exeption hendelining\\Exeption hendelining.csproj",
+      "projectPath": "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\Exeption hendelining\\Exeption hendelining.csproj",
       "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-      "outputPath": "E:\\Programs\\c#\\Chapter 3\\Exeption hendelining\\obj\\",
+      "outputPath": "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\Exeption hendelining\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",

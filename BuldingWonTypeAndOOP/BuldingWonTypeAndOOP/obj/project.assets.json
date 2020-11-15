@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programs\\c#\\Chapter 5\\Chapter 5\\BuldingWonTypeAndOOP.csproj",
+      "projectUniqueName": "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\BuldingWonTypeAndOOP\\BuldingWonTypeAndOOP.csproj",
       "projectName": "BuldingWonTypeAndOOP",
-      "projectPath": "E:\\Programs\\c#\\Chapter 5\\Chapter 5\\BuldingWonTypeAndOOP.csproj",
+      "projectPath": "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\BuldingWonTypeAndOOP\\BuldingWonTypeAndOOP.csproj",
       "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-      "outputPath": "E:\\Programs\\c#\\Chapter 5\\Chapter 5\\obj\\",
+      "outputPath": "E:\\Programs\\c#\\BuldingWonTypeAndOOP\\BuldingWonTypeAndOOP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",

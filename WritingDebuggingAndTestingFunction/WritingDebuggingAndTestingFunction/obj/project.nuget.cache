@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZeAB+qihVu1XYii4NS5GY0bheUyQDFJvgFZj/fIGU+U2yS9Rj1DevW+ykDy96Oo/R6Hl6L/cpuRU3+GRtpEapQ==",
+  "dgSpecHash": "2cw/n0JwAVnQRx7ZWPiTRxvoA3MqbRNYEB4IHGLAJ/W9xU1Vg0ZMCc7HKUZZEFD8ctR7RMAeS+EFt1XuY1AyIw==",
   "success": true,
-  "projectFilePath": "E:\\Programs\\c#\\Chapter 4\\Chapter 4\\WritingDebuggingAndTestingFunction.csproj",
+  "projectFilePath": "E:\\Programs\\c#\\WritingDebuggingAndTestingFunction\\WritingDebuggingAndTestingFunction\\WritingDebuggingAndTestingFunction.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mdaha\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\mdaha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programs\\c#\\Chapter 4\\Function\\Function.csproj": {}
+    "E:\\Programs\\c#\\WritingDebuggingAndTestingFunction\\Function\\Function.csproj": {}
   },
   "projects": {
-    "E:\\Programs\\c#\\Chapter 4\\Function\\Function.csproj": {
+    "E:\\Programs\\c#\\WritingDebuggingAndTestingFunction\\Function\\Function.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programs\\c#\\Chapter 4\\Function\\Function.csproj",
+        "projectUniqueName": "E:\\Programs\\c#\\WritingDebuggingAndTestingFunction\\Function\\Function.csproj",
         "projectName": "Function",
-        "projectPath": "E:\\Programs\\c#\\Chapter 4\\Function\\Function.csproj",
+        "projectPath": "E:\\Programs\\c#\\WritingDebuggingAndTestingFunction\\Function\\Function.csproj",
         "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-        "outputPath": "E:\\Programs\\c#\\Chapter 4\\Function\\obj\\",
+        "outputPath": "E:\\Programs\\c#\\WritingDebuggingAndTestingFunction\\Function\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",

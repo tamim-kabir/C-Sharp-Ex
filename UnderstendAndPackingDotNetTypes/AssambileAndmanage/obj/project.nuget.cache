@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bMYXChwxCDOI20+6Bw1KXBnjuVMaOB89B7MHvSmNA2oUT+lurA722KwxtlEQhjcshmeeWs7b+fcqqjl1HCiNBQ==",
+  "dgSpecHash": "OMcaXdnt3dyve7U0ogluEfMFo1guRjXzPE2I1c5bXj6kLG8YoXi1NajhOZlVg73AAjdHpCMCdr/B0BQlx0JL3g==",
   "success": true,
-  "projectFilePath": "E:\\Programs\\c#\\Chapter 7\\AssambileAndmanage\\AssambileAndmanage.csproj",
+  "projectFilePath": "E:\\Programs\\c#\\UnderstendAndPackingDotNetTypes\\AssambileAndmanage\\AssambileAndmanage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mdaha\\.nuget\\packages\\check.valid\\1.0.0.1\\check.valid.1.0.0.1.nupkg.sha512"
   ],

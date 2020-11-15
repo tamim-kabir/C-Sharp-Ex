@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programs\\c#\\Chapter 3\\Chapter 3\\ControllingFlowAndConvartingType.csproj": {}
+    "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\ControllingFlowAndConvartingType\\ControllingFlowAndConvartingType.csproj": {}
   },
   "projects": {
-    "E:\\Programs\\c#\\Chapter 3\\Chapter 3\\ControllingFlowAndConvartingType.csproj": {
+    "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\ControllingFlowAndConvartingType\\ControllingFlowAndConvartingType.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programs\\c#\\Chapter 3\\Chapter 3\\ControllingFlowAndConvartingType.csproj",
+        "projectUniqueName": "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\ControllingFlowAndConvartingType\\ControllingFlowAndConvartingType.csproj",
         "projectName": "ControllingFlowAndConvartingType",
-        "projectPath": "E:\\Programs\\c#\\Chapter 3\\Chapter 3\\ControllingFlowAndConvartingType.csproj",
+        "projectPath": "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\ControllingFlowAndConvartingType\\ControllingFlowAndConvartingType.csproj",
         "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
-        "outputPath": "E:\\Programs\\c#\\Chapter 3\\Chapter 3\\obj\\",
+        "outputPath": "E:\\Programs\\c#\\ControllingFlowAndConvartingType\\ControllingFlowAndConvartingType\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",
