@@ -1,0 +1,15 @@
+E:\Programs\c#\Chapter 7\AssambileAndmanage\bin\Debug\netcoreapp3.1\AssambileAndmanage.exe
+E:\Programs\c#\Chapter 7\AssambileAndmanage\bin\Debug\netcoreapp3.1\AssambileAndmanage.deps.json
+E:\Programs\c#\Chapter 7\AssambileAndmanage\bin\Debug\netcoreapp3.1\AssambileAndmanage.runtimeconfig.json
+E:\Programs\c#\Chapter 7\AssambileAndmanage\bin\Debug\netcoreapp3.1\AssambileAndmanage.runtimeconfig.dev.json
+E:\Programs\c#\Chapter 7\AssambileAndmanage\bin\Debug\netcoreapp3.1\AssambileAndmanage.dll
+E:\Programs\c#\Chapter 7\AssambileAndmanage\bin\Debug\netcoreapp3.1\AssambileAndmanage.pdb
+E:\Programs\c#\Chapter 7\AssambileAndmanage\bin\Debug\netcoreapp3.1\StringExensionLibrary.dll
+E:\Programs\c#\Chapter 7\AssambileAndmanage\obj\Debug\netcoreapp3.1\AssambileAndmanage.csprojAssemblyReference.cache
+E:\Programs\c#\Chapter 7\AssambileAndmanage\obj\Debug\netcoreapp3.1\AssambileAndmanage.csproj.CoreCompileInputs.cache
+E:\Programs\c#\Chapter 7\AssambileAndmanage\obj\Debug\netcoreapp3.1\AssambileAndmanage.AssemblyInfoInputs.cache
+E:\Programs\c#\Chapter 7\AssambileAndmanage\obj\Debug\netcoreapp3.1\AssambileAndmanage.AssemblyInfo.cs
+E:\Programs\c#\Chapter 7\AssambileAndmanage\obj\Debug\netcoreapp3.1\AssambileAndmanage.csproj.CopyComplete
+E:\Programs\c#\Chapter 7\AssambileAndmanage\obj\Debug\netcoreapp3.1\AssambileAndmanage.dll
+E:\Programs\c#\Chapter 7\AssambileAndmanage\obj\Debug\netcoreapp3.1\AssambileAndmanage.pdb
+E:\Programs\c#\Chapter 7\AssambileAndmanage\obj\Debug\netcoreapp3.1\AssambileAndmanage.genruntimeconfig.cache

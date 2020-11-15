@@ -1,0 +1,13 @@
+E:\Programs\c#\Chapter 9\WorkingWithEncoding\bin\Debug\netcoreapp3.1\WorkingWithEncoding.exe
+E:\Programs\c#\Chapter 9\WorkingWithEncoding\bin\Debug\netcoreapp3.1\WorkingWithEncoding.deps.json
+E:\Programs\c#\Chapter 9\WorkingWithEncoding\bin\Debug\netcoreapp3.1\WorkingWithEncoding.runtimeconfig.json
+E:\Programs\c#\Chapter 9\WorkingWithEncoding\bin\Debug\netcoreapp3.1\WorkingWithEncoding.runtimeconfig.dev.json
+E:\Programs\c#\Chapter 9\WorkingWithEncoding\bin\Debug\netcoreapp3.1\WorkingWithEncoding.dll
+E:\Programs\c#\Chapter 9\WorkingWithEncoding\bin\Debug\netcoreapp3.1\WorkingWithEncoding.pdb
+E:\Programs\c#\Chapter 9\WorkingWithEncoding\obj\Debug\netcoreapp3.1\WorkingWithEncoding.csprojAssemblyReference.cache
+E:\Programs\c#\Chapter 9\WorkingWithEncoding\obj\Debug\netcoreapp3.1\WorkingWithEncoding.csproj.CoreCompileInputs.cache
+E:\Programs\c#\Chapter 9\WorkingWithEncoding\obj\Debug\netcoreapp3.1\WorkingWithEncoding.AssemblyInfoInputs.cache
+E:\Programs\c#\Chapter 9\WorkingWithEncoding\obj\Debug\netcoreapp3.1\WorkingWithEncoding.AssemblyInfo.cs
+E:\Programs\c#\Chapter 9\WorkingWithEncoding\obj\Debug\netcoreapp3.1\WorkingWithEncoding.dll
+E:\Programs\c#\Chapter 9\WorkingWithEncoding\obj\Debug\netcoreapp3.1\WorkingWithEncoding.pdb
+E:\Programs\c#\Chapter 9\WorkingWithEncoding\obj\Debug\netcoreapp3.1\WorkingWithEncoding.genruntimeconfig.cache

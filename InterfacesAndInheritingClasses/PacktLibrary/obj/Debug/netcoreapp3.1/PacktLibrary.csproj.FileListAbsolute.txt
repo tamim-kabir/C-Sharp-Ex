@@ -1,0 +1,13 @@
+E:\Programs\c#\Chapter 6\PacktLibrary\bin\Debug\netcoreapp3.1\PacktLibrary.exe
+E:\Programs\c#\Chapter 6\PacktLibrary\bin\Debug\netcoreapp3.1\PacktLibrary.deps.json
+E:\Programs\c#\Chapter 6\PacktLibrary\bin\Debug\netcoreapp3.1\PacktLibrary.runtimeconfig.json
+E:\Programs\c#\Chapter 6\PacktLibrary\bin\Debug\netcoreapp3.1\PacktLibrary.runtimeconfig.dev.json
+E:\Programs\c#\Chapter 6\PacktLibrary\bin\Debug\netcoreapp3.1\PacktLibrary.dll
+E:\Programs\c#\Chapter 6\PacktLibrary\bin\Debug\netcoreapp3.1\PacktLibrary.pdb
+E:\Programs\c#\Chapter 6\PacktLibrary\obj\Debug\netcoreapp3.1\PacktLibrary.csprojAssemblyReference.cache
+E:\Programs\c#\Chapter 6\PacktLibrary\obj\Debug\netcoreapp3.1\PacktLibrary.csproj.CoreCompileInputs.cache
+E:\Programs\c#\Chapter 6\PacktLibrary\obj\Debug\netcoreapp3.1\PacktLibrary.AssemblyInfoInputs.cache
+E:\Programs\c#\Chapter 6\PacktLibrary\obj\Debug\netcoreapp3.1\PacktLibrary.AssemblyInfo.cs
+E:\Programs\c#\Chapter 6\PacktLibrary\obj\Debug\netcoreapp3.1\PacktLibrary.dll
+E:\Programs\c#\Chapter 6\PacktLibrary\obj\Debug\netcoreapp3.1\PacktLibrary.pdb
+E:\Programs\c#\Chapter 6\PacktLibrary\obj\Debug\netcoreapp3.1\PacktLibrary.genruntimeconfig.cache

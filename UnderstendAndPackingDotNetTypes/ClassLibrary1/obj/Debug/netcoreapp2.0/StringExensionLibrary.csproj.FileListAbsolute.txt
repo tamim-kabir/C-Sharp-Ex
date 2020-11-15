@@ -1,0 +1,12 @@
+E:\Programs\c#\Chapter 7\ClassLibrary1\obj\Debug\netcoreapp2.0\StringExensionLibrary.csprojAssemblyReference.cache
+E:\Programs\c#\Chapter 7\ClassLibrary1\obj\Debug\netcoreapp2.0\StringExensionLibrary.csproj.CoreCompileInputs.cache
+E:\Programs\c#\Chapter 7\ClassLibrary1\obj\Debug\netcoreapp2.0\StringExensionLibrary.AssemblyInfoInputs.cache
+E:\Programs\c#\Chapter 7\ClassLibrary1\obj\Debug\netcoreapp2.0\StringExensionLibrary.AssemblyInfo.cs
+E:\Programs\c#\Chapter 7\ClassLibrary1\bin\Debug\netcoreapp2.0\StringExensionLibrary.deps.json
+E:\Programs\c#\Chapter 7\ClassLibrary1\bin\Debug\netcoreapp2.0\StringExensionLibrary.runtimeconfig.json
+E:\Programs\c#\Chapter 7\ClassLibrary1\bin\Debug\netcoreapp2.0\StringExensionLibrary.runtimeconfig.dev.json
+E:\Programs\c#\Chapter 7\ClassLibrary1\bin\Debug\netcoreapp2.0\StringExensionLibrary.dll
+E:\Programs\c#\Chapter 7\ClassLibrary1\bin\Debug\netcoreapp2.0\StringExensionLibrary.pdb
+E:\Programs\c#\Chapter 7\ClassLibrary1\obj\Debug\netcoreapp2.0\StringExensionLibrary.dll
+E:\Programs\c#\Chapter 7\ClassLibrary1\obj\Debug\netcoreapp2.0\StringExensionLibrary.pdb
+E:\Programs\c#\Chapter 7\ClassLibrary1\obj\Debug\netcoreapp2.0\StringExensionLibrary.genruntimeconfig.cache

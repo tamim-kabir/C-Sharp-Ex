@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Check.Valid/1.0.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Check.Valid.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Check.Valid.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Check.Valid/1.0.0.1": {
+      "type": "project",
+      "path": "../ClassLibrary1/StringExensionLibrary.csproj",
+      "msbuildProject": "../ClassLibrary1/StringExensionLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Check.Valid >= 1.0.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mdaha\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Programs\\c#\\Chapter 7\\Chapter 7\\UnderstendAndPackingDotNetTypes.csproj",
+      "projectName": "UnderstendAndPackingDotNetTypes",
+      "projectPath": "E:\\Programs\\c#\\Chapter 7\\Chapter 7\\UnderstendAndPackingDotNetTypes.csproj",
+      "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
+      "outputPath": "E:\\Programs\\c#\\Chapter 7\\Chapter 7\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "E:\\Programs\\c#\\Chapter 7\\ClassLibrary1\\StringExensionLibrary.csproj": {
+              "projectPath": "E:\\Programs\\c#\\Chapter 7\\ClassLibrary1\\StringExensionLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

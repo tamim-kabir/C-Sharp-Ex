@@ -1,0 +1,13 @@
+E:\Programs\c#\Chapter 8\WorkingWithNetwork\obj\Debug\netcoreapp3.1\WorkingWithNetwork.csprojAssemblyReference.cache
+E:\Programs\c#\Chapter 8\WorkingWithNetwork\obj\Debug\netcoreapp3.1\WorkingWithNetwork.csproj.CoreCompileInputs.cache
+E:\Programs\c#\Chapter 8\WorkingWithNetwork\obj\Debug\netcoreapp3.1\WorkingWithNetwork.AssemblyInfoInputs.cache
+E:\Programs\c#\Chapter 8\WorkingWithNetwork\obj\Debug\netcoreapp3.1\WorkingWithNetwork.AssemblyInfo.cs
+E:\Programs\c#\Chapter 8\WorkingWithNetwork\bin\Debug\netcoreapp3.1\WorkingWithNetwork.exe
+E:\Programs\c#\Chapter 8\WorkingWithNetwork\bin\Debug\netcoreapp3.1\WorkingWithNetwork.deps.json
+E:\Programs\c#\Chapter 8\WorkingWithNetwork\bin\Debug\netcoreapp3.1\WorkingWithNetwork.runtimeconfig.json
+E:\Programs\c#\Chapter 8\WorkingWithNetwork\bin\Debug\netcoreapp3.1\WorkingWithNetwork.runtimeconfig.dev.json
+E:\Programs\c#\Chapter 8\WorkingWithNetwork\bin\Debug\netcoreapp3.1\WorkingWithNetwork.dll
+E:\Programs\c#\Chapter 8\WorkingWithNetwork\bin\Debug\netcoreapp3.1\WorkingWithNetwork.pdb
+E:\Programs\c#\Chapter 8\WorkingWithNetwork\obj\Debug\netcoreapp3.1\WorkingWithNetwork.dll
+E:\Programs\c#\Chapter 8\WorkingWithNetwork\obj\Debug\netcoreapp3.1\WorkingWithNetwork.pdb
+E:\Programs\c#\Chapter 8\WorkingWithNetwork\obj\Debug\netcoreapp3.1\WorkingWithNetwork.genruntimeconfig.cache

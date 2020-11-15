@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AssambileAndmanage/1.0.0": {
+        "dependencies": {
+          "Check.Valid": "1.0.0.1"
+        },
+        "runtime": {
+          "AssambileAndmanage.dll": {}
+        }
+      },
+      "Check.Valid/1.0.0.1": {
+        "runtime": {
+          "lib/netcoreapp2.0/StringExensionLibrary.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssambileAndmanage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Check.Valid/1.0.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mNimd1i450WXKHxqy5RQG6QQXaHypiTZqf5QTjVR/9Eh/7kAsGtyj6PPhjGRBHoJ413qjjjL7GhYsiZ84HJeLQ==",
+      "path": "check.valid/1.0.0.1",
+      "hashPath": "check.valid.1.0.0.1.nupkg.sha512"
+    }
+  }
+}

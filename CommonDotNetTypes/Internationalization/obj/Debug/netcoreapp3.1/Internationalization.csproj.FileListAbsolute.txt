@@ -1,0 +1,13 @@
+E:\Programs\c#\Chapter 8\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.exe
+E:\Programs\c#\Chapter 8\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.deps.json
+E:\Programs\c#\Chapter 8\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.runtimeconfig.json
+E:\Programs\c#\Chapter 8\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.runtimeconfig.dev.json
+E:\Programs\c#\Chapter 8\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.dll
+E:\Programs\c#\Chapter 8\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.pdb
+E:\Programs\c#\Chapter 8\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.csprojAssemblyReference.cache
+E:\Programs\c#\Chapter 8\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.csproj.CoreCompileInputs.cache
+E:\Programs\c#\Chapter 8\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.AssemblyInfoInputs.cache
+E:\Programs\c#\Chapter 8\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.AssemblyInfo.cs
+E:\Programs\c#\Chapter 8\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.dll
+E:\Programs\c#\Chapter 8\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.pdb
+E:\Programs\c#\Chapter 8\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.genruntimeconfig.cache

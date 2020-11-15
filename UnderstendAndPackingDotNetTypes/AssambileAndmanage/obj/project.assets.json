@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Check.Valid/1.0.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/StringExensionLibrary.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/StringExensionLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Check.Valid/1.0.0.1": {
+      "sha512": "mNimd1i450WXKHxqy5RQG6QQXaHypiTZqf5QTjVR/9Eh/7kAsGtyj6PPhjGRBHoJ413qjjjL7GhYsiZ84HJeLQ==",
+      "type": "package",
+      "path": "check.valid/1.0.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "check.valid.1.0.0.1.nupkg.sha512",
+        "check.valid.nuspec",
+        "lib/netcoreapp2.0/StringExensionLibrary.dll",
+        "lib/netcoreapp2.0/StringExensionLibrary.runtimeconfig.json"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Check.Valid >= 1.0.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mdaha\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Programs\\c#\\Chapter 7\\AssambileAndmanage\\AssambileAndmanage.csproj",
+      "projectName": "AssambileAndmanage",
+      "projectPath": "E:\\Programs\\c#\\Chapter 7\\AssambileAndmanage\\AssambileAndmanage.csproj",
+      "packagesPath": "C:\\Users\\mdaha\\.nuget\\packages\\",
+      "outputPath": "E:\\Programs\\c#\\Chapter 7\\AssambileAndmanage\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mdaha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Check.Valid": {
+            "target": "Package",
+            "version": "[1.0.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

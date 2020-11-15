@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>netcoreapp2.0</TargetFramework>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<PackageId>Check.Valid</PackageId>
+		<PackageVersion>1.0.0.1</PackageVersion>
+		<Authors>Ahasanul Kabir-PrimeMax</Authors>
+		<PackageLicenseExpression>MS-PL</PackageLicenseExpression>
+		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+		<Product>Check_Valid</Product>
+		<Description>
+			Four Extension Methods to validate a string value.
+			Like E-mail, Password, Xmltag, Hex
+		</Description>
+		<Copyright>Copyright @ 2020 PrimeMax</Copyright>
+		<PackageTags>String Extention Pack</PackageTags>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<PackageIcon>Icon.png</PackageIcon>
+		<RepositoryUrl>https://github.com/tamim-kabir/Packing-Library-NuGet</RepositoryUrl>
+		<RepositoryType>NuGet</RepositoryType>
+		<PackageProjectUrl>https://github.com/tamim-kabir/C-Sharp</PackageProjectUrl>
+		<NeutralLanguage>en-US</NeutralLanguage>
+		<Version>1.0.1</Version>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Include="C:\Users\mdaha\Downloads\Icon.png">
+			<Pack>True</Pack>
+			<PackagePath></PackagePath>
+		</None>
+	</ItemGroup>
+
+</Project>

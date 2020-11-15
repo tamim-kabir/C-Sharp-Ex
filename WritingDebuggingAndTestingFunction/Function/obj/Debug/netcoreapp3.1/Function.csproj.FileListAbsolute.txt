@@ -1,0 +1,13 @@
+C:\Users\mdaha\source\repos\Chapter 4\Function\bin\Debug\netcoreapp3.1\Function.exe
+C:\Users\mdaha\source\repos\Chapter 4\Function\bin\Debug\netcoreapp3.1\Function.deps.json
+C:\Users\mdaha\source\repos\Chapter 4\Function\bin\Debug\netcoreapp3.1\Function.runtimeconfig.json
+C:\Users\mdaha\source\repos\Chapter 4\Function\bin\Debug\netcoreapp3.1\Function.runtimeconfig.dev.json
+C:\Users\mdaha\source\repos\Chapter 4\Function\bin\Debug\netcoreapp3.1\Function.dll
+C:\Users\mdaha\source\repos\Chapter 4\Function\bin\Debug\netcoreapp3.1\Function.pdb
+C:\Users\mdaha\source\repos\Chapter 4\Function\obj\Debug\netcoreapp3.1\Function.csprojAssemblyReference.cache
+C:\Users\mdaha\source\repos\Chapter 4\Function\obj\Debug\netcoreapp3.1\Function.csproj.CoreCompileInputs.cache
+C:\Users\mdaha\source\repos\Chapter 4\Function\obj\Debug\netcoreapp3.1\Function.AssemblyInfoInputs.cache
+C:\Users\mdaha\source\repos\Chapter 4\Function\obj\Debug\netcoreapp3.1\Function.AssemblyInfo.cs
+C:\Users\mdaha\source\repos\Chapter 4\Function\obj\Debug\netcoreapp3.1\Function.dll
+C:\Users\mdaha\source\repos\Chapter 4\Function\obj\Debug\netcoreapp3.1\Function.pdb
+C:\Users\mdaha\source\repos\Chapter 4\Function\obj\Debug\netcoreapp3.1\Function.genruntimeconfig.cache
